@@ -1,0 +1,258 @@
+genome	classification	kingdom	phylum	class	order	family	genus	species
+A2O.154	d__Archaea;p__Micrarchaeota;c__Micrarchaeia;o__UBA8480;f__UBA8480;g__;s__	Archaea	Micrarchaeota	Micrarchaeia	UBA8480	UBA8480		
+AO.96	d__Archaea;p__Iainarchaeota;c__Iainarchaeia;o__;f__;g__;s__	Archaea	Iainarchaeota	Iainarchaeia				
+AO.70	d__Archaea;p__Iainarchaeota;c__Iainarchaeia;o__;f__;g__;s__	Archaea	Iainarchaeota	Iainarchaeia				
+AO.33	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__AKYH767-A;f__OLB10;g__OLB10;s__OLB10 sp002455375	Bacteria	Bacteroidota	Bacteroidia	AKYH767-A	OLB10	OLB10	OLB10 sp002455375
+AO.73	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Competibacterales;f__Competibacteraceae;g__Competibacter;s__Competibacter denitrificans	Bacteria	Proteobacteria	Gammaproteobacteria	Competibacterales	Competibacteraceae	Competibacter	Competibacter denitrificans
+A2O.96	d__Bacteria;p__Campylobacterota;c__Campylobacteria;o__Campylobacterales;f__Arcobacteraceae;g__Aliarcobacter;s__Aliarcobacter cryaerophilus_A	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Arcobacteraceae	Aliarcobacter	Aliarcobacter cryaerophilus_A
+AO.31	d__Bacteria;p__Campylobacterota;c__Campylobacteria;o__Campylobacterales;f__Arcobacteraceae;g__Aliarcobacter;s__Aliarcobacter cryaerophilus_A	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Arcobacteraceae	Aliarcobacter	Aliarcobacter cryaerophilus_A
+AO.17	d__Bacteria;p__Cyanobacteria;c__Vampirovibrionia;o__Obscuribacterales;f__Obscuribacteraceae;g__Obscuribacter;s__	Bacteria	Cyanobacteria	Vampirovibrionia	Obscuribacterales	Obscuribacteraceae	Obscuribacter	
+A2O.44	d__Bacteria;p__Cyanobacteria;c__Vampirovibrionia;o__Obscuribacterales;f__Obscuribacteraceae;g__Obscuribacter;s__	Bacteria	Cyanobacteria	Vampirovibrionia	Obscuribacterales	Obscuribacteraceae	Obscuribacter	
+A2O.78	d__Bacteria;p__Cyanobacteria;c__Vampirovibrionia;o__Obscuribacterales;f__;g__;s__	Bacteria	Cyanobacteria	Vampirovibrionia	Obscuribacterales			
+A2O.28	d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Mycobacteriales;f__Mycobacteriaceae;g__Mycolicibacterium;s__	Bacteria	Actinobacteriota	Actinobacteria	Mycobacteriales	Mycobacteriaceae	Mycolicibacterium	
+AO.3	d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Actinomycetales;f__Dermatophilaceae;g__GCA-2748155;s__	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Dermatophilaceae	GCA-2748155	
+AO.76	d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Actinomycetales;f__Dermatophilaceae;g__GCA-2748155;s__	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Dermatophilaceae	GCA-2748155	
+A2O.92	d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Actinomycetales;f__Dermatophilaceae;g__GCA-2748155;s__	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Dermatophilaceae	GCA-2748155	
+A2O.146	d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Propionibacteriales;f__Nocardioidaceae;g__;s__	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae		
+AO.12	d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__Microtrichaceae;g__IMCC26207;s__	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Microtrichaceae	IMCC26207	
+A2O.114	d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__Microtrichaceae;g__IMCC26207;s__	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Microtrichaceae	IMCC26207	
+A2O.113	d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__Microtrichaceae;g__IMCC26207;s__	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Microtrichaceae	IMCC26207	
+AO.39	d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__Microtrichaceae;g__;s__	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Microtrichaceae		
+AO.2	d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__UBA8139;g__;s__	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	UBA8139		
+A2O.46	d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__UBA8139;g__;s__	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	UBA8139		
+A2O.12	d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__UBA8139;g__;s__	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	UBA8139		
+A2O.59	d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__Ilumatobacteraceae;g__UBA668;s__	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Ilumatobacteraceae	UBA668	
+A2O.151	d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__Ilumatobacteraceae;g__;s__	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Ilumatobacteraceae		
+A2O.75	d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__;f__;g__;s__	Bacteria	Actinobacteriota	Acidimicrobiia				
+AO.66	d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__;f__;g__;s__	Bacteria	Actinobacteriota	Acidimicrobiia				
+AO.87	d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__;f__;g__;s__	Bacteria	Actinobacteriota	Acidimicrobiia				
+A2O.158	d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__UBA2766;f__;g__;s__	Bacteria	Actinobacteriota	Acidimicrobiia	UBA2766			
+AO.19	d__Bacteria;p__Armatimonadota;c__Fimbriimonadia;o__Fimbriimonadales;f__;g__;s__	Bacteria	Armatimonadota	Fimbriimonadia	Fimbriimonadales			
+A2O.87	d__Bacteria;p__Armatimonadota;c__Fimbriimonadia;o__Fimbriimonadales;f__;g__;s__	Bacteria	Armatimonadota	Fimbriimonadia	Fimbriimonadales			
+A2O.7	d__Bacteria;p__Patescibacteria;c__Paceibacteria_A;o__Moranbacterales;f__UBA1568;g__;s__	Bacteria	Patescibacteria	Paceibacteria_A	Moranbacterales	UBA1568		
+AO.44	d__Bacteria;p__Patescibacteria;c__Paceibacteria_A;o__Moranbacterales;f__UBA1568;g__;s__	Bacteria	Patescibacteria	Paceibacteria_A	Moranbacterales	UBA1568		
+A2O.110	d__Bacteria;p__Patescibacteria;c__Paceibacteria_A;o__Moranbacterales;f__UBA1568;g__;s__	Bacteria	Patescibacteria	Paceibacteria_A	Moranbacterales	UBA1568		
+AO.45	d__Bacteria;p__Patescibacteria;c__ABY1;o__SG8-24;f__UBA9934;g__UBA11707;s__	Bacteria	Patescibacteria	ABY1	SG8-24	UBA9934	UBA11707	
+A2O.63	d__Bacteria;p__Patescibacteria;c__Gracilibacteria;o__UM-FILTER-43-11;f__UM-FILTER-43-11;g__;s__	Bacteria	Patescibacteria	Gracilibacteria	UM-FILTER-43-11	UM-FILTER-43-11		
+A2O.10	d__Bacteria;p__Patescibacteria;c__Gracilibacteria;o__BD1-5;f__UBA6164;g__;s__	Bacteria	Patescibacteria	Gracilibacteria	BD1-5	UBA6164		
+AO.60	d__Bacteria;p__Patescibacteria;c__Saccharimonadia;o__UBA4664;f__;g__;s__	Bacteria	Patescibacteria	Saccharimonadia	UBA4664			
+A2O.23	d__Bacteria;p__Patescibacteria;c__Saccharimonadia;o__UBA4664;f__;g__;s__	Bacteria	Patescibacteria	Saccharimonadia	UBA4664			
+A2O.137	d__Bacteria;p__Patescibacteria;c__Microgenomatia;o__UBA1406;f__GWC2-37-13;g__;s__	Bacteria	Patescibacteria	Microgenomatia	UBA1406	GWC2-37-13		
+AO.4	d__Bacteria;p__Patescibacteria;c__Microgenomatia;o__UBA1406;f__GWC2-37-13;g__;s__	Bacteria	Patescibacteria	Microgenomatia	UBA1406	GWC2-37-13		
+A2O.159	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__envOPS12;g__OLB14;s__	Bacteria	Chloroflexota	Anaerolineae	Anaerolineales	envOPS12	OLB14	
+AO.83	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__envOPS12;g__OLB14;s__	Bacteria	Chloroflexota	Anaerolineae	Anaerolineales	envOPS12	OLB14	
+A2O.85	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__envOPS12;g__UBA12294;s__	Bacteria	Chloroflexota	Anaerolineae	Anaerolineales	envOPS12	UBA12294	
+AO.22	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__envOPS12;g__UBA12294;s__	Bacteria	Chloroflexota	Anaerolineae	Anaerolineales	envOPS12	UBA12294	
+A2O.100	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__envOPS12;g__UBA12294;s__	Bacteria	Chloroflexota	Anaerolineae	Anaerolineales	envOPS12	UBA12294	
+A2O.95	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__UBA6663;g__;s__	Bacteria	Chloroflexota	Anaerolineae	Anaerolineales	UBA6663		
+A2O.93	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__UBA6663;g__;s__	Bacteria	Chloroflexota	Anaerolineae	Anaerolineales	UBA6663		
+A2O.8	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__UBA6663;g__;s__	Bacteria	Chloroflexota	Anaerolineae	Anaerolineales	UBA6663		
+A2O.91	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__UBA6663;g__;s__	Bacteria	Chloroflexota	Anaerolineae	Anaerolineales	UBA6663		
+A2O.35	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Anaerolineales;f__UBA6663;g__;s__	Bacteria	Chloroflexota	Anaerolineae	Anaerolineales	UBA6663		
+A2O.48	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__SBR1031;f__A4b;g__OLB15;s__	Bacteria	Chloroflexota	Anaerolineae	SBR1031	A4b	OLB15	
+A2O.24	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Promineofilales;f__Promineofilaceae;g__Promineofilum;s__	Bacteria	Chloroflexota	Anaerolineae	Promineofilales	Promineofilaceae	Promineofilum	
+A2O.139	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Promineofilales;f__;g__;s__	Bacteria	Chloroflexota	Anaerolineae	Promineofilales			
+AO.74	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Thermoflexales;f__Fen-1058;g__Fen-1058;s__	Bacteria	Chloroflexota	Anaerolineae	Thermoflexales	Fen-1058	Fen-1058	
+A2O.89	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Thermoflexales;f__Fen-1058;g__Fen-1058;s__	Bacteria	Chloroflexota	Anaerolineae	Thermoflexales	Fen-1058	Fen-1058	
+A2O.31	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__Caldilineales;f__;g__;s__	Bacteria	Chloroflexota	Anaerolineae	Caldilineales			
+AO.98	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__;f__;g__;s__	Bacteria	Chloroflexota	Anaerolineae				
+AO.29	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__;f__;g__;s__	Bacteria	Chloroflexota	Anaerolineae				
+A2O.53	d__Bacteria;p__Chloroflexota;c__Anaerolineae;o__;f__;g__;s__	Bacteria	Chloroflexota	Anaerolineae				
+AO.43	d__Bacteria;p__Chloroflexota;c__Chloroflexia;o__Chloroflexales;f__Roseiflexaceae;g__Kouleothrix;s__	Bacteria	Chloroflexota	Chloroflexia	Chloroflexales	Roseiflexaceae	Kouleothrix	
+A2O.129	d__Bacteria;p__Chloroflexota;c__Chloroflexia;o__Chloroflexales;f__Roseiflexaceae;g__Kouleothrix;s__	Bacteria	Chloroflexota	Chloroflexia	Chloroflexales	Roseiflexaceae	Kouleothrix	
+AO.86	d__Bacteria;p__Chloroflexota;c__Chloroflexia;o__Chloroflexales;f__Roseiflexaceae;g__Kouleothrix;s__	Bacteria	Chloroflexota	Chloroflexia	Chloroflexales	Roseiflexaceae	Kouleothrix	
+A2O.108	d__Bacteria;p__Chloroflexota;c__Chloroflexia;o__Chloroflexales;f__Roseiflexaceae;g__Kouleothrix;s__	Bacteria	Chloroflexota	Chloroflexia	Chloroflexales	Roseiflexaceae	Kouleothrix	
+A2O.130	d__Bacteria;p__Chloroflexota;c__Chloroflexia;o__Chloroflexales;f__Roseiflexaceae;g__;s__	Bacteria	Chloroflexota	Chloroflexia	Chloroflexales	Roseiflexaceae		
+A2O.40	d__Bacteria;p__Chloroflexota;c__Chloroflexia;o__Chloroflexales;f__Roseiflexaceae;g__;s__	Bacteria	Chloroflexota	Chloroflexia	Chloroflexales	Roseiflexaceae		
+AO.64	d__Bacteria;p__Chloroflexota;c__Chloroflexia;o__Chloroflexales;f__Roseiflexaceae;g__;s__	Bacteria	Chloroflexota	Chloroflexia	Chloroflexales	Roseiflexaceae		
+AO.92	d__Bacteria;p__Chloroflexota;c__Chloroflexia;o__Chloroflexales;f__Roseiflexaceae;g__;s__	Bacteria	Chloroflexota	Chloroflexia	Chloroflexales	Roseiflexaceae		
+AO.10	d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Verrucomicrobiaceae;g__;s__	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae		
+AO.99	d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Verrucomicrobiaceae;g__;s__	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae		
+A2O.21	d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Verrucomicrobiaceae;g__;s__	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae		
+A2O.11	d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Pedosphaerales;f__Pedosphaeraceae;g__UBA11358;s__	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	UBA11358	
+A2O.72	d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Pedosphaerales;f__UBA11320;g__;s__	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	UBA11320		
+A2O.77	d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__Pirellulaceae;g__;s__	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae		
+AO.48	d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__Ga0077529;g__;s__	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Ga0077529		
+AO.88	d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__Ga0077529;g__;s__	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Ga0077529		
+A2O.101	d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__Ga0077529;g__;s__	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Ga0077529		
+A2O.80	d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__SM1A02;g__UBA2402;s__	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	UBA2402	
+AO.81	d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Phycisphaerales;f__SM1A02;g__UBA2402;s__	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	SM1A02	UBA2402	
+AO.68	d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__UBA1845;f__Fen-1342;g__;s__	Bacteria	Planctomycetota	Phycisphaerae	UBA1845	Fen-1342		
+A2O.49	d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__UBA1845;f__Fen-1342;g__;s__	Bacteria	Planctomycetota	Phycisphaerae	UBA1845	Fen-1342		
+A2O.36	d__Bacteria;p__Planctomycetota;c__GCA-002687715;o__;f__;g__;s__	Bacteria	Planctomycetota	GCA-002687715				
+AO.97	d__Bacteria;p__Spirochaetota;c__Leptospirae;o__Leptospirales;f__Leptospiraceae;g__;s__	Bacteria	Spirochaetota	Leptospirae	Leptospirales	Leptospiraceae		
+AO.82	d__Bacteria;p__Spirochaetota;c__Leptospirae;o__Leptospirales;f__Leptospiraceae;g__;s__	Bacteria	Spirochaetota	Leptospirae	Leptospirales	Leptospiraceae		
+A2O.86	d__Bacteria;p__Spirochaetota;c__Leptospirae;o__Leptospirales;f__Leptospiraceae;g__;s__	Bacteria	Spirochaetota	Leptospirae	Leptospirales	Leptospiraceae		
+A2O.128	d__Bacteria;p__Spirochaetota;c__Leptospirae;o__Leptospirales;f__;g__;s__	Bacteria	Spirochaetota	Leptospirae	Leptospirales			
+A2O.70	d__Bacteria;p__Spirochaetota;c__Leptospirae;o__Turneriellales;f__Turneriellaceae;g__Turneriella;s__	Bacteria	Spirochaetota	Leptospirae	Turneriellales	Turneriellaceae	Turneriella	
+A2O.65	d__Bacteria;p__UBP7;c__;o__;f__;g__;s__	Bacteria	UBP7					
+AO.27	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__PHOS-HE28;g__PHOS-HE28;s__	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	PHOS-HE28	PHOS-HE28	
+A2O.45	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__PHOS-HE28;g__PHOS-HE28;s__	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	PHOS-HE28	PHOS-HE28	
+A2O.51	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__AKYH767;f__Palsa-965;g__GCA-2737665;s__	Bacteria	Bacteroidota	Bacteroidia	AKYH767	Palsa-965	GCA-2737665	
+A2O.9	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__AKYH767;f__b-17BO;g__;s__	Bacteria	Bacteroidota	Bacteroidia	AKYH767	b-17BO		
+AO.56	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__AKYH767;f__b-17BO;g__;s__	Bacteria	Bacteroidota	Bacteroidia	AKYH767	b-17BO		
+A2O.22	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__AKYH767-A;f__OLB10;g__OLB10;s__	Bacteria	Bacteroidota	Bacteroidia	AKYH767-A	OLB10	OLB10	
+A2O.61	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__AKYH767-A;f__OLB10;g__;s__	Bacteria	Bacteroidota	Bacteroidia	AKYH767-A	OLB10		
+A2O.141	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__AKYH767-A;f__OLB10;g__;s__	Bacteria	Bacteroidota	Bacteroidia	AKYH767-A	OLB10		
+A2O.157	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__AKYH767-A;f__2013-40CM-41-45;g__;s__	Bacteria	Bacteroidota	Bacteroidia	AKYH767-A	2013-40CM-41-45		
+A2O.20	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__AKYH767-A;f__2013-40CM-41-45;g__;s__	Bacteria	Bacteroidota	Bacteroidia	AKYH767-A	2013-40CM-41-45		
+AO.35	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__AKYH767-A;f__2013-40CM-41-45;g__;s__	Bacteria	Bacteroidota	Bacteroidia	AKYH767-A	2013-40CM-41-45		
+A2O.67	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Chitinophagaceae;g__JJ008;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	JJ008	
+AO.65	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Chitinophagaceae;g__JJ008;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	JJ008	
+AO.69	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Chitinophagaceae;g__JJ008;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	JJ008	
+A2O.13	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Chitinophagaceae;g__JJ008;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	JJ008	
+A2O.97	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Chitinophagaceae;g__Ferruginibacter;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Ferruginibacter	
+AO.9	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Chitinophagaceae;g__Ferruginibacter;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Ferruginibacter	
+A2O.122	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Chitinophagaceae;g__Ferruginibacter;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Ferruginibacter	
+AO.7	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Chitinophagaceae;g__Ferruginibacter;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Ferruginibacter	
+A2O.125	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Chitinophagaceae;g__Ferruginibacter;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Ferruginibacter	
+A2O.119	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Chitinophagaceae;g__Ferruginibacter;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Ferruginibacter	
+A2O.3	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Chitinophagaceae;g__Ferruginibacter;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Ferruginibacter	
+A2O.50	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Chitinophagaceae;g__Ferruginibacter;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Ferruginibacter	
+AO.54	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Chitinophagaceae;g__Ferruginibacter;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Ferruginibacter	
+A2O.6	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__UBA10324;g__;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	UBA10324		
+AO.89	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__UBA10324;g__;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	UBA10324		
+AO.38	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__UBA10324;g__;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	UBA10324		
+AO.1	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__UBA10324;g__;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	UBA10324		
+A2O.136	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__UBA10324;g__;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	UBA10324		
+A2O.117	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Saprospiraceae;g__;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae		
+A2O.38	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Saprospiraceae;g__UBA3362;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	UBA3362	
+AO.58	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Saprospiraceae;g__UBA3362;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	UBA3362	
+A2O.30	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Saprospiraceae;g__UBA3362;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	UBA3362	
+AO.62	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Saprospiraceae;g__UBA3362;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	UBA3362	
+AO.36	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Saprospiraceae;g__UBA3362;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	UBA3362	
+A2O.76	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Saprospiraceae;g__UBA3362;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	UBA3362	
+A2O.102	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Saprospiraceae;g__;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae		
+AO.67	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Saprospiraceae;g__;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae		
+AO.78	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Saprospiraceae;g__;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae		
+A2O.43	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Saprospiraceae;g__;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae		
+A2O.131	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Saprospiraceae;g__;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae		
+AO.30	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__UBA2359;g__;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	UBA2359		
+A2O.17	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__UBA2359;g__;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	UBA2359		
+A2O.27	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__UBA2359;g__;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	UBA2359		
+AO.11	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__UBA2359;g__;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	UBA2359		
+A2O.81	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__;g__;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales			
+A2O.54	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__LD1;g__Bog-950;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	LD1	Bog-950	
+AO.23	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__BACL12;g__UBA7236;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	BACL12	UBA7236	
+A2O.94	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__BACL12;g__UBA7236;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	BACL12	UBA7236	
+AO.77	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__;g__;s__	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales			
+A2O.120	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__;f__;g__;s__	Bacteria	Bacteroidota	Bacteroidia				
+A2O.105	d__Bacteria;p__Bacteroidota;c__Ignavibacteria;o__Ignavibacteriales;f__Ignavibacteriaceae;g__Ignavibacterium;s__	Bacteria	Bacteroidota	Ignavibacteria	Ignavibacteriales	Ignavibacteriaceae	Ignavibacterium	
+AO.34	d__Bacteria;p__Bacteroidota;c__Ignavibacteria;o__Ignavibacteriales;f__Ignavibacteriaceae;g__;s__	Bacteria	Bacteroidota	Ignavibacteria	Ignavibacteriales	Ignavibacteriaceae		
+A2O.33	d__Bacteria;p__Bacteroidota;c__Ignavibacteria;o__Ignavibacteriales;f__Ignavibacteriaceae;g__;s__	Bacteria	Bacteroidota	Ignavibacteria	Ignavibacteriales	Ignavibacteriaceae		
+A2O.150	d__Bacteria;p__Bacteroidota;c__Ignavibacteria;o__SJA-28;f__B-1AR;g__UBA2330;s__	Bacteria	Bacteroidota	Ignavibacteria	SJA-28	B-1AR	UBA2330	
+A2O.25	d__Bacteria;p__Bacteroidota;c__Ignavibacteria;o__SJA-28;f__B-1AR;g__;s__	Bacteria	Bacteroidota	Ignavibacteria	SJA-28	B-1AR		
+A2O.143	d__Bacteria;p__Bacteroidota;c__Ignavibacteria;o__SJA-28;f__B-1AR;g__;s__	Bacteria	Bacteroidota	Ignavibacteria	SJA-28	B-1AR		
+A2O.147	d__Bacteria;p__Bacteroidota;c__Ignavibacteria;o__SJA-28;f__OLB5;g__OLB5;s__	Bacteria	Bacteroidota	Ignavibacteria	SJA-28	OLB5	OLB5	
+A2O.71	d__Bacteria;p__Bacteroidota;c__UBA10030;o__UBA10030;f__UBA8401;g__UBA8401;s__	Bacteria	Bacteroidota	UBA10030	UBA10030	UBA8401	UBA8401	
+A2O.18	d__Bacteria;p__Bacteroidota;c__UBA10030;o__UBA10030;f__UBA8401;g__;s__	Bacteria	Bacteroidota	UBA10030	UBA10030	UBA8401		
+A2O.118	d__Bacteria;p__Bacteroidota;c__UBA10030;o__UBA10030;f__UBA8401;g__;s__	Bacteria	Bacteroidota	UBA10030	UBA10030	UBA8401		
+AO.84	d__Bacteria;p__;c__;o__;f__;g__;s__	Bacteria	Others					
+A2O.149	d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Gemmatimonadales;f__GWC2-71-9;g__;s__	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	GWC2-71-9		
+A2O.138	d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Gemmatimonadales;f__Gemmatimonadaceae;g__SCN-70-22;s__	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	SCN-70-22	
+AO.41	d__Bacteria;p__ARS69;c__ARS69;o__ARS69;f__ARS69;g__;s__	Bacteria	ARS69	ARS69	ARS69	ARS69		
+A2O.152	d__Bacteria;p__ARS69;c__ARS69;o__ARS69;f__ARS69;g__;s__	Bacteria	ARS69	ARS69	ARS69	ARS69		
+A2O.2	d__Bacteria;p__Zixibacteria;c__MSB-5A5;o__GN15;f__FEB-12;g__;s__	Bacteria	Zixibacteria	MSB-5A5	GN15	12-Feb		
+AO.55	d__Bacteria;p__Zixibacteria;c__MSB-5A5;o__;f__;g__;s__	Bacteria	Zixibacteria	MSB-5A5				
+A2O.116	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__UBA5518;g__UBA5518;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	UBA5518	UBA5518	
+AO.90	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__UBA5862;g__;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	UBA5862		
+AO.71	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__UBA5862;g__;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	UBA5862		
+A2O.58	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__UBA5862;g__;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	UBA5862		
+A2O.1	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Agitococcus;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Agitococcus	
+A2O.19	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Berkiellales;f__Berkiellaceae;g__Berkiella;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Berkiellales	Berkiellaceae	Berkiella	
+AO.49	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Steroidobacterales;f__Steroidobacteraceae;g__UBA964;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Steroidobacterales	Steroidobacteraceae	UBA964	
+A2O.73	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Steroidobacterales;f__Steroidobacteraceae;g__UBA964;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Steroidobacterales	Steroidobacteraceae	UBA964	
+A2O.57	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Steroidobacterales;f__Steroidobacteraceae;g__UBA964;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Steroidobacterales	Steroidobacteraceae	UBA964	
+AO.53	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Steroidobacterales;f__Steroidobacteraceae;g__UBA964;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Steroidobacterales	Steroidobacteraceae	UBA964	
+A2O.109	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Steroidobacterales;f__Steroidobacteraceae;g__;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Steroidobacterales	Steroidobacteraceae		
+AO.42	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Steroidobacterales;f__Steroidobacteraceae;g__;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Steroidobacterales	Steroidobacteraceae		
+AO.18	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Chromatiales;f__Chromatiaceae;g__;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Chromatiaceae		
+AO.95	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Chromatiales;f__Chromatiaceae;g__;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Chromatiaceae		
+AO.20	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Chromatiales;f__Chromatiaceae;g__;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Chromatiaceae		
+A2O.84	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Chromatiales;f__Chromatiaceae;g__;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Chromatiaceae		
+AO.5	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Chromatiales;f__Chromatiaceae;g__;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Chromatiaceae		
+A2O.156	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Beggiatoales;f__;g__;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Beggiatoales			
+A2O.123	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Competibacterales;f__Competibacteraceae;g__Competibacter;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Competibacterales	Competibacteraceae	Competibacter	
+AO.59	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Competibacterales;f__Competibacteraceae;g__Competibacter;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Competibacterales	Competibacteraceae	Competibacter	
+A2O.124	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Competibacterales;f__Competibacteraceae;g__Competibacter;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Competibacterales	Competibacteraceae	Competibacter	
+AO.28	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Rubrivivax;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Rubrivivax	
+A2O.140	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__JOSHI-001;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	JOSHI-001	
+AO.46	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__JOSHI-001;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	JOSHI-001	
+A2O.14	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__JOSHI-001;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	JOSHI-001	
+A2O.132	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__JOSHI-001;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	JOSHI-001	
+A2O.133	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Rhodocyclaceae;g__;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Rhodocyclaceae		
+A2O.148	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Rhodocyclaceae;g__;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Rhodocyclaceae		
+A2O.112	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Rhodocyclaceae;g__;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Rhodocyclaceae		
+A2O.88	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__UKL13-2;g__FEB-7;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	UKL13-2	7-Feb	
+AO.50	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Palsa-1005;g__PALSA-1003;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Palsa-1005	PALSA-1003	
+A2O.134	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Palsa-1005;g__PALSA-1003;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Palsa-1005	PALSA-1003	
+A2O.34	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Nitrosomonadaceae;g__Nitrosomonas;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	Nitrosomonas	
+A2O.47	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Nitrosomonadaceae;g__Nitrosomonas;s__	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	Nitrosomonas	
+A2O.107	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Hyphomicrobiaceae;g__Hyphomicrobium;s__	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium	
+A2O.69	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Caulobacterales;f__Hyphomonadaceae;g__SWB02;s__	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	SWB02	
+AO.57	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Caulobacterales;f__Hyphomonadaceae;g__SWB02;s__	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	SWB02	
+AO.26	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA1301;f__UBA1301;g__SZUA-430;s__	Bacteria	Proteobacteria	Alphaproteobacteria	UBA1301	UBA1301	SZUA-430	
+A2O.56	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__UBA1301;f__UBA1301;g__SZUA-430;s__	Bacteria	Proteobacteria	Alphaproteobacteria	UBA1301	UBA1301	SZUA-430	
+AO.21	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__UBA1936;s__	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	UBA1936	
+AO.79	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__UBA1936;s__	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	UBA1936	
+A2O.145	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__;f__;g__;s__	Bacteria	Proteobacteria	Alphaproteobacteria				
+A2O.64	d__Bacteria;p__Dependentiae;c__Babeliae;o__Babeliales;f__RVW-14;g__UASB124;s__	Bacteria	Dependentiae	Babeliae	Babeliales	RVW-14	UASB124	
+AO.25	d__Bacteria;p__Nitrospirota;c__Nitrospiria;o__Nitrospirales;f__Nitrospiraceae;g__Nitrospira_A;s__	Bacteria	Nitrospirota	Nitrospiria	Nitrospirales	Nitrospiraceae	Nitrospira_A	
+A2O.29	d__Bacteria;p__Nitrospirota;c__Nitrospiria;o__Nitrospirales;f__Nitrospiraceae;g__Nitrospira_A;s__	Bacteria	Nitrospirota	Nitrospiria	Nitrospirales	Nitrospiraceae	Nitrospira_A	
+A2O.104	d__Bacteria;p__Myxococcota;c__Polyangia;o__Palsa-1104;f__Palsa-1104;g__;s__	Bacteria	Myxococcota	Polyangia	Palsa-1104	Palsa-1104		
+AO.32	d__Bacteria;p__Myxococcota;c__Polyangia;o__Palsa-1104;f__;g__;s__	Bacteria	Myxococcota	Polyangia	Palsa-1104			
+A2O.83	d__Bacteria;p__Myxococcota;c__Polyangia;o__Palsa-1104;f__;g__;s__	Bacteria	Myxococcota	Polyangia	Palsa-1104			
+AO.85	d__Bacteria;p__Myxococcota;c__Polyangia;o__Palsa-1104;f__;g__;s__	Bacteria	Myxococcota	Polyangia	Palsa-1104			
+A2O.68	d__Bacteria;p__Myxococcota;c__Polyangia;o__Palsa-1104;f__;g__;s__	Bacteria	Myxococcota	Polyangia	Palsa-1104			
+A2O.37	d__Bacteria;p__Myxococcota;c__Polyangia;o__Palsa-1104;f__;g__;s__	Bacteria	Myxococcota	Polyangia	Palsa-1104			
+AO.91	d__Bacteria;p__Myxococcota;c__Polyangia;o__Palsa-1104;f__;g__;s__	Bacteria	Myxococcota	Polyangia	Palsa-1104			
+AO.6	d__Bacteria;p__Myxococcota;c__Polyangia;o__Palsa-1104;f__;g__;s__	Bacteria	Myxococcota	Polyangia	Palsa-1104			
+A2O.121	d__Bacteria;p__Myxococcota;c__Polyangia;o__Nannocystales;f__Nannocystaceae;g__Nannocystis;s__	Bacteria	Myxococcota	Polyangia	Nannocystales	Nannocystaceae	Nannocystis	
+AO.63	d__Bacteria;p__Myxococcota;c__Polyangia;o__Polyangiales;f__Polyangiaceae;g__;s__	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae		
+AO.51	d__Bacteria;p__Myxococcota;c__Polyangia;o__Polyangiales;f__Polyangiaceae;g__;s__	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae		
+AO.93	d__Bacteria;p__Myxococcota;c__Polyangia;o__Polyangiales;f__Polyangiaceae;g__;s__	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae		
+A2O.66	d__Bacteria;p__Myxococcota;c__Polyangia;o__Polyangiales;f__Polyangiaceae;g__;s__	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae		
+A2O.62	d__Bacteria;p__Myxococcota;c__Polyangia;o__Polyangiales;f__Polyangiaceae;g__;s__	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae		
+AO.40	d__Bacteria;p__Myxococcota;c__Polyangia;o__Polyangiales;f__Polyangiaceae;g__;s__	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae		
+A2O.32	d__Bacteria;p__Myxococcota;c__Polyangia;o__Polyangiales;f__Polyangiaceae;g__;s__	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae		
+A2O.4	d__Bacteria;p__Myxococcota;c__Myxococcia;o__Myxococcales;f__Myxococcaceae;g__Archangium_A;s__	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae	Archangium_A	
+A2O.52	d__Bacteria;p__Myxococcota;c__Myxococcia;o__Myxococcales;f__Myxococcaceae;g__;s__	Bacteria	Myxococcota	Myxococcia	Myxococcales	Myxococcaceae		
+A2O.42	d__Bacteria;p__Myxococcota;c__UBA727;o__UBA727;f__GCA-2721815;g__;s__	Bacteria	Myxococcota	UBA727	UBA727	GCA-2721815		
+A2O.82	d__Bacteria;p__Myxococcota;c__UBA727;o__;f__;g__;s__	Bacteria	Myxococcota	UBA727				
+A2O.98	d__Bacteria;p__Myxococcota;c__UBA796;o__UBA796;f__;g__;s__	Bacteria	Myxococcota	UBA796	UBA796			
+AO.94	d__Bacteria;p__Myxococcota;c__UBA796;o__UBA796;f__GCA-2862545;g__;s__	Bacteria	Myxococcota	UBA796	UBA796	GCA-2862545		
+A2O.15	d__Bacteria;p__Myxococcota;c__UBA796;o__UBA796;f__GCA-2862545;g__;s__	Bacteria	Myxococcota	UBA796	UBA796	GCA-2862545		
+A2O.115	d__Bacteria;p__Myxococcota;c__;o__;f__;g__;s__	Bacteria	Myxococcota					
+AO.72	d__Bacteria;p__Bdellovibrionota_B;c__UBA2361;o__UBA2361;f__;g__;s__	Bacteria	Bdellovibrionota_B	UBA2361	UBA2361			
+A2O.142	d__Bacteria;p__Bdellovibrionota_B;c__UBA2361;o__UBA2361;f__;g__;s__	Bacteria	Bdellovibrionota_B	UBA2361	UBA2361			
+A2O.126	d__Bacteria;p__Bdellovibrionota_B;c__UBA2361;o__SZUA-149;f__SZUA-149;g__;s__	Bacteria	Bdellovibrionota_B	UBA2361	SZUA-149	SZUA-149		
+AO.37	d__Bacteria;p__Bdellovibrionota;c__Bdellovibrionia;o__Bdellovibrionales;f__Bdellovibrionaceae;g__;s__	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae		
+A2O.153	d__Bacteria;p__Bdellovibrionota;c__Bdellovibrionia;o__Bdellovibrionales;f__Bdellovibrionaceae;g__;s__	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae		
+A2O.55	d__Bacteria;p__Bdellovibrionota;c__Bdellovibrionia;o__Bdellovibrionales;f__Bdellovibrionaceae;g__Ga0074137;s__	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	Ga0074137	
+A2O.60	d__Bacteria;p__Bdellovibrionota_A;c__UBA2651;o__;f__;g__;s__	Bacteria	Bdellovibrionota_A	UBA2651				
+AO.52	d__Bacteria;p__Acidobacteriota;c__Blastocatellia;o__Pyrinomonadales;f__Pyrinomonadaceae;g__OLB17;s__	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales	Pyrinomonadaceae	OLB17	
+A2O.16	d__Bacteria;p__Acidobacteriota;c__Blastocatellia;o__Pyrinomonadales;f__;g__;s__	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales			
+AO.80	d__Bacteria;p__Acidobacteriota;c__Blastocatellia;o__Pyrinomonadales;f__;g__;s__	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales			
+A2O.103	d__Bacteria;p__Acidobacteriota;c__Blastocatellia;o__Pyrinomonadales;f__;g__;s__	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales			
+A2O.99	d__Bacteria;p__Acidobacteriota;c__Blastocatellia;o__Pyrinomonadales;f__;g__;s__	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales			
+AO.61	d__Bacteria;p__Acidobacteriota;c__Blastocatellia;o__Pyrinomonadales;f__;g__;s__	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales			
+A2O.135	d__Bacteria;p__Acidobacteriota;c__Blastocatellia;o__Pyrinomonadales;f__;g__;s__	Bacteria	Acidobacteriota	Blastocatellia	Pyrinomonadales			
+A2O.26	d__Bacteria;p__Acidobacteriota;c__Blastocatellia;o__UBA7656;f__;g__;s__	Bacteria	Acidobacteriota	Blastocatellia	UBA7656			
+AO.16	d__Bacteria;p__Acidobacteriota;c__Blastocatellia;o__UBA7656;f__;g__;s__	Bacteria	Acidobacteriota	Blastocatellia	UBA7656			
+A2O.74	d__Bacteria;p__Acidobacteriota;c__Blastocatellia;o__UBA7656;f__;g__;s__	Bacteria	Acidobacteriota	Blastocatellia	UBA7656			
+A2O.90	d__Bacteria;p__Acidobacteriota;c__Blastocatellia;o__Chloracidobacteriales;f__Chloracidobacteriaceae;g__;s__	Bacteria	Acidobacteriota	Blastocatellia	Chloracidobacteriales	Chloracidobacteriaceae		
+A2O.155	d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA2999;g__;s__	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	UBA2999		
+AO.15	d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__UBA2999;g__;s__	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	UBA2999		
+AO.75	d__Bacteria;p__Acidobacteriota;c__Thermoanaerobaculia;o__UBA5066;f__UBA5066;g__Fen-183;s__	Bacteria	Acidobacteriota	Thermoanaerobaculia	UBA5066	UBA5066	Fen-183	
+A2O.106	d__Bacteria;p__Acidobacteriota;c__Thermoanaerobaculia;o__UBA5066;f__UBA5066;g__Fen-183;s__	Bacteria	Acidobacteriota	Thermoanaerobaculia	UBA5066	UBA5066	Fen-183	
+A2O.144	d__Bacteria;p__Acidobacteriota;c__Thermoanaerobaculia;o__UBA5704;f__;g__;s__	Bacteria	Acidobacteriota	Thermoanaerobaculia	UBA5704			
+A2O.5	d__Bacteria;p__Acidobacteriota;c__Holophagae;o__Holophagales;f__Holophagaceae;g__;s__	Bacteria	Acidobacteriota	Holophagae	Holophagales	Holophagaceae		
+A2O.79	d__Bacteria;p__Acidobacteriota;c__Holophagae;o__Holophagales;f__Holophagaceae;g__;s__	Bacteria	Acidobacteriota	Holophagae	Holophagales	Holophagaceae		
+AO.13	d__Bacteria;p__Acidobacteriota;c__Holophagae;o__Holophagales;f__Holophagaceae;g__;s__	Bacteria	Acidobacteriota	Holophagae	Holophagales	Holophagaceae		
+AO.24	d__Bacteria;p__Omnitrophota;c__koll11;o__UBA10015;f__;g__;s__	Bacteria	Omnitrophota	koll11	UBA10015			
+A2O.111	d__Bacteria;p__Omnitrophota;c__koll11;o__UBA10015;f__;g__;s__	Bacteria	Omnitrophota	koll11	UBA10015			
+A2O.39	d__Bacteria;p__Omnitrophota;c__Omnitrophia;o__Omnitrophales;f__1-14-0-20-45-26;g__;s__	Bacteria	Omnitrophota	Omnitrophia	Omnitrophales	1-14-0-20-45-26		
+A2O.127	d__Bacteria;p__Elusimicrobiota;c__Elusimicrobia;o__2-02-FULL-39-32;f__2-02-FULL-39-32;g__;s__	Bacteria	Elusimicrobiota	Elusimicrobia	2-02-FULL-39-32	2-02-FULL-39-32		
+AO.8	d__Bacteria;p__Elusimicrobiota;c__Elusimicrobia;o__F11;f__FEN-1173;g__;s__	Bacteria	Elusimicrobiota	Elusimicrobia	F11	FEN-1173		
+A2O.41	d__Bacteria;p__Elusimicrobiota;c__Elusimicrobia;o__F11;f__FEN-1173;g__;s__	Bacteria	Elusimicrobiota	Elusimicrobia	F11	FEN-1173		
+AO.14	d__Bacteria;p__Elusimicrobiota;c__Elusimicrobia;o__F11;f__FEN-1173;g__;s__	Bacteria	Elusimicrobiota	Elusimicrobia	F11	FEN-1173		

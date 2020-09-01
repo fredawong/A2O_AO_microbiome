@@ -1,0 +1,9 @@
+[2020-06-01 01:00:39 AM] INFO: Command: /home/linyuan/anaconda3/envs/enrichm/bin/enrichm pathway --matrix ko_frequency_table.tsv --genome_metadata ko_50/genome_metadata.txt --output pathway --force
+[2020-06-01 01:00:39 AM] INFO: Running the pathway pipeline
+[2020-06-01 01:00:43 AM] INFO: No enrichment results provided
+[2020-06-01 01:00:43 AM] INFO: No metabolome abundances provided
+[2020-06-01 01:00:43 AM] INFO: No genome abundances provided
+[2020-06-01 01:00:44 AM] INFO: Writing results to file: pathway/network.tsv
+[2020-06-01 01:00:44 AM] INFO: Writing results to file: pathway/metadata.tsv
+[2020-06-01 01:00:44 AM] INFO: Finished the pathway pipeline
+[2020-06-01 01:00:44 AM] INFO: Finished running EnrichM
